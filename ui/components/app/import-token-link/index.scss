@@ -1,0 +1,9 @@
+.import-token-link {
+  & &__link {
+    @include H6;
+
+    display: inline;
+    color: var(--white);
+    padding: 0 5px 16px;
+  }
+}
